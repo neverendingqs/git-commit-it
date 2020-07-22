@@ -3,3 +3,5 @@
 Check out the [wiki](https://github.com/neverendingqs/git-commit-it/wiki) to
 find out just how hard it is to lose your changes once you have **git
 commit**ted it!
+
+Now does not support IE 11!.
